@@ -1,0 +1,16 @@
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 아티팩트 및 임시 폴더
+artifacts/
+artifacts_mlp/
+simple/
+simple2/
+simple3/
+
+# 데이터 및 결과 CSV 파일
+*.csv
+
+# 데이터 분할 폴더
+splits/
+splits_mlp/
